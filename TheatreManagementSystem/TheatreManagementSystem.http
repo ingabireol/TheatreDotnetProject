@@ -1,0 +1,6 @@
+@TheatreManagementSystem_HostAddress = http://localhost:5197
+
+GET {{TheatreManagementSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

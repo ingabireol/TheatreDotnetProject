@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BookMyShow - Experience Cinema Like Never Before</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Playfair+Display:wght@400;600&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- AOS Animation Library -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/welcome.css">
+</head>
+<body>
+    <!-- Header Placeholder -->
+    <div id="header"></div>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-bg"></div>
+        <div class="hero-overlay"></div>
+
+        <!-- Floating Elements -->
+        <div class="floating-elements">
+            <div class="float-element float-1"></div>
+            <div class="float-element float-2"></div>
+            <div class="float-element float-3"></div>
+        </div>
+
+        <div class="hero-content">
+            <div class="logo-container">
+                <div class="logo">
+                    <i class="fas fa-ticket-alt logo-icon"></i>
+                    <span class="book">BOOK</span><span class="my">MY</span><span class="show">SHOW</span>
+                </div>
+            </div>
+
+            <h1 class="hero-title">Experience Cinema Like Never Before</h1>
+            <p class="hero-subtitle">Book tickets for the latest movies, select your favorite seats, and enjoy an immersive theatre experience.</p>
+
+            <div class="cta-buttons">
+                <a href="/movies" class="btn btn-primary">Browse Movies</a>
+                <a href="/theatres" class="btn btn-secondary">Find Theatres</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Featured Movies Section -->
+    <section class="featured-section" data-aos="fade-up">
+        <div class="section-title">
+            <h2>Now Showing</h2>
+            <p>Discover the latest blockbusters and book your tickets with just a few clicks.</p>
+        </div>
+
+        <div id="now-playing-movies" class="movie-grid">
+            <!-- Movie cards will be dynamically inserted here by JavaScript -->
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features-section">
+        <div class="features-container">
+            <div class="section-title" data-aos="fade-up">
+                <h2>Why Choose BookMyShow</h2>
+                <p>We offer an unparalleled movie booking experience with premium features for cinema lovers.</p>
+            </div>
+
+            <div class="features-grid">
+                <!-- Feature 1 -->
+                <div class="feature-box" data-aos="fade-up" data-aos-delay="100">
+                    <div class="feature-icon">
+                        <i class="fas fa-ticket-alt"></i>
+                    </div>
+                    <h3 class="feature-title">Easy Booking</h3>
+                    <p class="feature-desc">Book your movie tickets in just a few clicks with our intuitive interface.</p>
+                </div>
+
+                <!-- Feature 2 -->
+                <div class="feature-box" data-aos="fade-up" data-aos-delay="200">
+                    <div class="feature-icon">
+                        <i class="fas fa-couch"></i>
+                    </div>
+                    <h3 class="feature-title">Seat Selection</h3>
+                    <p class="feature-desc">Choose your preferred seats with our interactive seat selection system.</p>
+                </div>
+
+                <!-- Feature 3 -->
+                <div class="feature-box" data-aos="fade-up" data-aos-delay="300">
+                    <div class="feature-icon">
+                        <i class="fas fa-film"></i>
+                    </div>
+                    <h3 class="feature-title">Latest Movies</h3>
+                    <p class="feature-desc">Get access to the latest releases and upcoming movies in all genres.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Placeholder -->
+    <div id="footer"></div>
+
+    <!-- AOS Animation Script -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <!-- jQuery for AJAX requests -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Custom JavaScript -->
+    <script src="/js/welcome.js"></script>
+</body>
+</html>

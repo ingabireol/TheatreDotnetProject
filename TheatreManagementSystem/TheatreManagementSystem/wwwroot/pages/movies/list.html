@@ -1,0 +1,73 @@
+<!-- File: wwwroot/pages/movies/list-converted.html -->
+<div class="container">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2><i class="fas fa-film me-2"></i>Movies & Showtimes</h2>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb mb-0">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Movies</li>
+            </ol>
+        </nav>
+    </div>
+
+    <!-- Alert Messages -->
+    <div id="successAlert" class="alert alert-success alert-dismissible fade show d-none" role="alert">
+        <span id="successMessage"></span>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+
+    <!-- File: wwwroot/pages/movies/list-converted.html -->
+    <div id="errorAlert" class="alert alert-danger alert-dismissible fade show d-none" role="alert">
+        <span id="errorMessage"></span>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+
+    <!-- Search and Filters -->
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+            <form id="movieFilterForm" class="row g-3">
+                <div class="col-md-4">
+                    <label for="query" class="form-label">Search</label>
+                    <input type="text" class="form-control" id="query" name="query" placeholder="Search by title or director">
+                </div>
+                <div class="col-md-3">
+                    <label for="genre" class="form-label">Genre</label>
+                    <select class="form-select" id="genre" name="genre">
+                        <option value="">All Genres</option>
+                        <!-- Genre options will be populated from API -->
+                    </select>
+                </div>
+                <div class="col-md-3">
+                    <label for="date" class="form-label">Date</label>
+                    <input type="date" class="form-control" id="date" name="date">
+                </div>
+                <div class="col-md-2 d-flex align-items-end">
+                    <button type="submit" class="btn btn-primary w-100">Filter</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Movies Cards Grid -->
+    <div id="moviesContainer" class="row g-4">
+        <!-- Movies will be loaded here dynamically -->
+    </div>
+
+    <!-- Empty State -->
+    <div id="emptyState" class="empty-state text-center py-5 d-none">
+        <div class="empty-icon mb-4">
+            <i class="fas fa-film" style="font-size: 4rem; color: #ccc;"></i>
+        </div>
+        <h4 class="mb-3">No Movies Found</h4>
+        <p class="lead text-muted mb-4">We couldn't find any movies matching your search criteria.</p>
+        <a href="/movies" class="btn btn-primary">View All Movies</a>
+    </div>
+
+    <!-- Loading Indicator -->
+    <div id="loadingIndicator" class="text-center py-5">
+        <div class="spinner-border text-primary" role="status">
+            <span class="visually-hidden">Loading...</span>
+        </div>
+        <p class="mt-2">Loading movies...</p>
+    </div>
+</div>

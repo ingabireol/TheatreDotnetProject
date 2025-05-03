@@ -1,0 +1,48 @@
+﻿namespace TheatreManagementSystem.wwwroot.pages.shared
+<!-- File: wwwroot/pages/shared/base.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Theatre Management System</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
+          crossorigin="anonymous">
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+          integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+          crossorigin="anonymous"
+          referrerpolicy="no-referrer" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/main.css">
+    <!-- Page-specific CSS -->
+    <link rel="stylesheet" id="page-css" href="">
+</head>
+<body class="d-flex flex-column min-vh-100">
+    <!-- Header Placeholder -->
+    <div id="header"></div>
+
+    <!-- Content Placeholder -->
+    <main id="content" class="flex-grow-1"></main>
+
+    <!-- Footer Placeholder -->
+    <div id="footer"></div>
+
+    <!-- Bootstrap JS Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+            crossorigin="anonymous"></script>
+    <!-- Auth Service -->
+    <script src="/js/services/authService.js"></script>
+    <!-- Header and Footer Components -->
+    <script src="/js/components/header.js"></script>
+    <script src="/js/components/footer.js"></script>
+    <!-- Page-specific JavaScript -->
+    <script id="page-script" src=""></script>
+</body>
+</html>

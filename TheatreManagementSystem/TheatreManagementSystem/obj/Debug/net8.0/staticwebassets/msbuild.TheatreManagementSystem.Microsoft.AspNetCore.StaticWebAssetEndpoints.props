@@ -1,0 +1,760 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/css/error.18ztk9qald.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\error.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"18ztk9qald"},{"Name":"integrity","Value":"sha256-bzDrWAR0i\u002BWJml3NkdK5MRmqVbg53RViFMWz3gcdy88="},{"Name":"label","Value":"_content/TheatreManagementSystem/css/error.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"901"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bzDrWAR0i\u002BWJml3NkdK5MRmqVbg53RViFMWz3gcdy88=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:46:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/css/error.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\error.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bzDrWAR0i\u002BWJml3NkdK5MRmqVbg53RViFMWz3gcdy88="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"901"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bzDrWAR0i\u002BWJml3NkdK5MRmqVbg53RViFMWz3gcdy88=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:46:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/css/main.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\main.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XZyc\u002Bjfl3o0l3DRRT5gE1UYIB4jWuR2WeLBFRcRvJ3k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9101"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022XZyc\u002Bjfl3o0l3DRRT5gE1UYIB4jWuR2WeLBFRcRvJ3k=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:46:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/css/main.dcez1ullfh.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\main.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dcez1ullfh"},{"Name":"integrity","Value":"sha256-XZyc\u002Bjfl3o0l3DRRT5gE1UYIB4jWuR2WeLBFRcRvJ3k="},{"Name":"label","Value":"_content/TheatreManagementSystem/css/main.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9101"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022XZyc\u002Bjfl3o0l3DRRT5gE1UYIB4jWuR2WeLBFRcRvJ3k=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:46:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/css/welcome.5a4snltjxh.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\welcome.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5a4snltjxh"},{"Name":"integrity","Value":"sha256-U4DGuaGOEXyDLAuuup3UNePpmgAbSz8prKI\u002BcH9QNrg="},{"Name":"label","Value":"_content/TheatreManagementSystem/css/welcome.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9873"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022U4DGuaGOEXyDLAuuup3UNePpmgAbSz8prKI\u002BcH9QNrg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:46:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/css/welcome.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\welcome.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-U4DGuaGOEXyDLAuuup3UNePpmgAbSz8prKI\u002BcH9QNrg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9873"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022U4DGuaGOEXyDLAuuup3UNePpmgAbSz8prKI\u002BcH9QNrg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:46:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/android-chrome-192x192.9ak3rv4r1q.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\android-chrome-192x192.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9ak3rv4r1q"},{"Name":"integrity","Value":"sha256-cWCWITZxmUIsoAdJEkyYzDZUXx0A9PWyjN4vMMQdC\u002Bs="},{"Name":"label","Value":"_content/TheatreManagementSystem/images/android-chrome-192x192.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"64764"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022cWCWITZxmUIsoAdJEkyYzDZUXx0A9PWyjN4vMMQdC\u002Bs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/android-chrome-192x192.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\android-chrome-192x192.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cWCWITZxmUIsoAdJEkyYzDZUXx0A9PWyjN4vMMQdC\u002Bs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"64764"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022cWCWITZxmUIsoAdJEkyYzDZUXx0A9PWyjN4vMMQdC\u002Bs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/android-chrome-512x512.1nwe2x443n.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\android-chrome-512x512.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1nwe2x443n"},{"Name":"integrity","Value":"sha256-vUIBCI\u002BlPotBxTWAtz6cA5L9HaB59/F7mUDQxykl4/o="},{"Name":"label","Value":"_content/TheatreManagementSystem/images/android-chrome-512x512.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"416612"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022vUIBCI\u002BlPotBxTWAtz6cA5L9HaB59/F7mUDQxykl4/o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/android-chrome-512x512.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\android-chrome-512x512.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vUIBCI\u002BlPotBxTWAtz6cA5L9HaB59/F7mUDQxykl4/o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"416612"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022vUIBCI\u002BlPotBxTWAtz6cA5L9HaB59/F7mUDQxykl4/o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/apple-touch-icon.5cvekgeoxo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\apple-touch-icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5cvekgeoxo"},{"Name":"integrity","Value":"sha256-JUq/X726WusnPyHkOBc8fhEWCgnm9UdqkVJ5e2Z8NM0="},{"Name":"label","Value":"_content/TheatreManagementSystem/images/apple-touch-icon.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"57961"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JUq/X726WusnPyHkOBc8fhEWCgnm9UdqkVJ5e2Z8NM0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/apple-touch-icon.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\apple-touch-icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JUq/X726WusnPyHkOBc8fhEWCgnm9UdqkVJ5e2Z8NM0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"57961"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JUq/X726WusnPyHkOBc8fhEWCgnm9UdqkVJ5e2Z8NM0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/bookMyShow1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bookMyShow1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pY8BNzAhyx/KLBl4PSJQEk7xjG2N2h20HtrsblryPbA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"32835"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pY8BNzAhyx/KLBl4PSJQEk7xjG2N2h20HtrsblryPbA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/bookMyShow1.z6eyk4tktf.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bookMyShow1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z6eyk4tktf"},{"Name":"integrity","Value":"sha256-pY8BNzAhyx/KLBl4PSJQEk7xjG2N2h20HtrsblryPbA="},{"Name":"label","Value":"_content/TheatreManagementSystem/images/bookMyShow1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32835"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pY8BNzAhyx/KLBl4PSJQEk7xjG2N2h20HtrsblryPbA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/bookMyShow2.84m30qp8z0.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bookMyShow2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"84m30qp8z0"},{"Name":"integrity","Value":"sha256-SDUr27BT1wevkv\u002BgFfx3rCXHlz06gKNw52Jln/55niI="},{"Name":"label","Value":"_content/TheatreManagementSystem/images/bookMyShow2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18068"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022SDUr27BT1wevkv\u002BgFfx3rCXHlz06gKNw52Jln/55niI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/bookMyShow2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bookMyShow2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SDUr27BT1wevkv\u002BgFfx3rCXHlz06gKNw52Jln/55niI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"18068"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022SDUr27BT1wevkv\u002BgFfx3rCXHlz06gKNw52Jln/55niI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/bookMyshow3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bookMyshow3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SPk3udBLjMHfCoFPI2ASinKXzkzcKIGjkInFRDTMa8I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"19559"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022SPk3udBLjMHfCoFPI2ASinKXzkzcKIGjkInFRDTMa8I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/bookMyshow3.wui19mfx2b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bookMyshow3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wui19mfx2b"},{"Name":"integrity","Value":"sha256-SPk3udBLjMHfCoFPI2ASinKXzkzcKIGjkInFRDTMa8I="},{"Name":"label","Value":"_content/TheatreManagementSystem/images/bookMyshow3.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19559"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022SPk3udBLjMHfCoFPI2ASinKXzkzcKIGjkInFRDTMa8I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/favicon-16x16.5qjjsmjp9m.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\favicon-16x16.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5qjjsmjp9m"},{"Name":"integrity","Value":"sha256-nQ45/ENfXdMuJ20VkV4p1SwI5RMeW8jdKF8/hc0StJM="},{"Name":"label","Value":"_content/TheatreManagementSystem/images/favicon-16x16.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"707"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022nQ45/ENfXdMuJ20VkV4p1SwI5RMeW8jdKF8/hc0StJM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/favicon-16x16.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\favicon-16x16.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nQ45/ENfXdMuJ20VkV4p1SwI5RMeW8jdKF8/hc0StJM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"707"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022nQ45/ENfXdMuJ20VkV4p1SwI5RMeW8jdKF8/hc0StJM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/favicon-32x32.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\favicon-32x32.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Dv3XzTVJAOybpKNJ351YlxtJuFcsiKhW2zNiUjEPxlw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2387"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Dv3XzTVJAOybpKNJ351YlxtJuFcsiKhW2zNiUjEPxlw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/favicon-32x32.u95tb68484.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\favicon-32x32.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u95tb68484"},{"Name":"integrity","Value":"sha256-Dv3XzTVJAOybpKNJ351YlxtJuFcsiKhW2zNiUjEPxlw="},{"Name":"label","Value":"_content/TheatreManagementSystem/images/favicon-32x32.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2387"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Dv3XzTVJAOybpKNJ351YlxtJuFcsiKhW2zNiUjEPxlw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/favicon.b1zkjzwgyb.ico">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\favicon.ico'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b1zkjzwgyb"},{"Name":"integrity","Value":"sha256-obIxoRA1gKbIlQCC38Y7lykTB2GkNJKZyv2j4HSUgZA="},{"Name":"label","Value":"_content/TheatreManagementSystem/images/favicon.ico"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15406"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022obIxoRA1gKbIlQCC38Y7lykTB2GkNJKZyv2j4HSUgZA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/favicon.ico">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\favicon.ico'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-obIxoRA1gKbIlQCC38Y7lykTB2GkNJKZyv2j4HSUgZA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15406"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022obIxoRA1gKbIlQCC38Y7lykTB2GkNJKZyv2j4HSUgZA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/LqoyvtQPWq4WNOoSwLOtRnH6WNfG/yngWNnOaJIq70="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"309"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022/LqoyvtQPWq4WNOoSwLOtRnH6WNfG/yngWNnOaJIq70=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/index.wtlu7dk2a8.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wtlu7dk2a8"},{"Name":"integrity","Value":"sha256-/LqoyvtQPWq4WNOoSwLOtRnH6WNfG/yngWNnOaJIq70="},{"Name":"label","Value":"_content/TheatreManagementSystem/images/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"309"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022/LqoyvtQPWq4WNOoSwLOtRnH6WNfG/yngWNnOaJIq70=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/site.cd1glqtwtg.webmanifest">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\site.webmanifest'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cd1glqtwtg"},{"Name":"integrity","Value":"sha256-EOg76QoRsveeo8A9s3mrWmMVgUqmlLsGQ0rkAev0kZA="},{"Name":"label","Value":"_content/TheatreManagementSystem/images/site.webmanifest"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"278"},{"Name":"Content-Type","Value":"application/manifest\u002Bjson"},{"Name":"ETag","Value":"\u0022EOg76QoRsveeo8A9s3mrWmMVgUqmlLsGQ0rkAev0kZA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/site.webmanifest">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\site.webmanifest'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EOg76QoRsveeo8A9s3mrWmMVgUqmlLsGQ0rkAev0kZA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"278"},{"Name":"Content-Type","Value":"application/manifest\u002Bjson"},{"Name":"ETag","Value":"\u0022EOg76QoRsveeo8A9s3mrWmMVgUqmlLsGQ0rkAev0kZA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/theatre1.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\theatre1.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OKgLffKDkEwhQ/YGwP8nM2cKKwr6F/52lRuOT9dyMgg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8299"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OKgLffKDkEwhQ/YGwP8nM2cKKwr6F/52lRuOT9dyMgg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/theatre1.kpejnc3m2u.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\theatre1.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kpejnc3m2u"},{"Name":"integrity","Value":"sha256-OKgLffKDkEwhQ/YGwP8nM2cKKwr6F/52lRuOT9dyMgg="},{"Name":"label","Value":"_content/TheatreManagementSystem/images/theatre1.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8299"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OKgLffKDkEwhQ/YGwP8nM2cKKwr6F/52lRuOT9dyMgg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/theatre2.92tmor1wgx.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\theatre2.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"92tmor1wgx"},{"Name":"integrity","Value":"sha256-X0\u002BuewLJZCyS//djH610\u002B0WjR7lcNfplx5ovCkKH6rY="},{"Name":"label","Value":"_content/TheatreManagementSystem/images/theatre2.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12035"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022X0\u002BuewLJZCyS//djH610\u002B0WjR7lcNfplx5ovCkKH6rY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/theatre2.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\theatre2.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-X0\u002BuewLJZCyS//djH610\u002B0WjR7lcNfplx5ovCkKH6rY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12035"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022X0\u002BuewLJZCyS//djH610\u002B0WjR7lcNfplx5ovCkKH6rY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/theatre3.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\theatre3.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7xhj3mCnuDSM\u002B15Kbx5i3rop7PpVA6UpBKEdsAGH56A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8271"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227xhj3mCnuDSM\u002B15Kbx5i3rop7PpVA6UpBKEdsAGH56A=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/theatre3.t5kg1rvt45.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\theatre3.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t5kg1rvt45"},{"Name":"integrity","Value":"sha256-7xhj3mCnuDSM\u002B15Kbx5i3rop7PpVA6UpBKEdsAGH56A="},{"Name":"label","Value":"_content/TheatreManagementSystem/images/theatre3.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8271"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227xhj3mCnuDSM\u002B15Kbx5i3rop7PpVA6UpBKEdsAGH56A=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/theatre4.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\theatre4.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wc90UYnsBXcl8KhuT9FezI6W5C3CrIhPWqE0fp3e6jA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12937"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wc90UYnsBXcl8KhuT9FezI6W5C3CrIhPWqE0fp3e6jA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/theatre4.lryvynj3x6.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\theatre4.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lryvynj3x6"},{"Name":"integrity","Value":"sha256-wc90UYnsBXcl8KhuT9FezI6W5C3CrIhPWqE0fp3e6jA="},{"Name":"label","Value":"_content/TheatreManagementSystem/images/theatre4.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12937"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wc90UYnsBXcl8KhuT9FezI6W5C3CrIhPWqE0fp3e6jA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/theatre5.ihko0h4nfl.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\theatre5.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ihko0h4nfl"},{"Name":"integrity","Value":"sha256-Sp7ypNUx5nityBZUkfO7kEA6N3O4SDWxevSeBGnuGoM="},{"Name":"label","Value":"_content/TheatreManagementSystem/images/theatre5.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"108705"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Sp7ypNUx5nityBZUkfO7kEA6N3O4SDWxevSeBGnuGoM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/images/theatre5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\theatre5.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Sp7ypNUx5nityBZUkfO7kEA6N3O4SDWxevSeBGnuGoM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"108705"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Sp7ypNUx5nityBZUkfO7kEA6N3O4SDWxevSeBGnuGoM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/js/home.9tsl8kxfa7.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\home.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9tsl8kxfa7"},{"Name":"integrity","Value":"sha256-HS3uhf0JLbxojgNkTefzwBE3M4ZHLj/F8WDl3j12\u002Bg8="},{"Name":"label","Value":"_content/TheatreManagementSystem/js/home.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18903"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022HS3uhf0JLbxojgNkTefzwBE3M4ZHLj/F8WDl3j12\u002Bg8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:38:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/js/home.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\home.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HS3uhf0JLbxojgNkTefzwBE3M4ZHLj/F8WDl3j12\u002Bg8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"18903"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022HS3uhf0JLbxojgNkTefzwBE3M4ZHLj/F8WDl3j12\u002Bg8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:38:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/js/welcome.1n75jp3tas.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\welcome.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1n75jp3tas"},{"Name":"integrity","Value":"sha256-7Ry5gpv\u002B2TlMPg5Q2TB5DhMrsJA7GOQvkQcqY6mXfMI="},{"Name":"label","Value":"_content/TheatreManagementSystem/js/welcome.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7384"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00227Ry5gpv\u002B2TlMPg5Q2TB5DhMrsJA7GOQvkQcqY6mXfMI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:47:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/js/welcome.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\welcome.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7Ry5gpv\u002B2TlMPg5Q2TB5DhMrsJA7GOQvkQcqY6mXfMI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7384"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00227Ry5gpv\u002B2TlMPg5Q2TB5DhMrsJA7GOQvkQcqY6mXfMI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:47:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/about.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\about.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-a1UAUVxPiAt6Tgtnd8Z6cAkmzf6Mh\u002BtWzFXBaiZikOU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"26827"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022a1UAUVxPiAt6Tgtnd8Z6cAkmzf6Mh\u002BtWzFXBaiZikOU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/about.ze1x4r00vt.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\about.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ze1x4r00vt"},{"Name":"integrity","Value":"sha256-a1UAUVxPiAt6Tgtnd8Z6cAkmzf6Mh\u002BtWzFXBaiZikOU="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/about.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26827"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022a1UAUVxPiAt6Tgtnd8Z6cAkmzf6Mh\u002BtWzFXBaiZikOU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/bookings/list.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\bookings\list.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GIhik8opsf229jOMGUyUUQtp6btoaPqzqnBH7f0b\u002BbQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"12494"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022GIhik8opsf229jOMGUyUUQtp6btoaPqzqnBH7f0b\u002BbQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/bookings/list.svnk6femlx.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\bookings\list.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"svnk6femlx"},{"Name":"integrity","Value":"sha256-GIhik8opsf229jOMGUyUUQtp6btoaPqzqnBH7f0b\u002BbQ="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/bookings/list.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12494"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022GIhik8opsf229jOMGUyUUQtp6btoaPqzqnBH7f0b\u002BbQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/bookings/view.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\bookings\view.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Hs6c1sUOq599HNbiiRBOxBzQoosFbFY5QAUOu8JAOiY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13064"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Hs6c1sUOq599HNbiiRBOxBzQoosFbFY5QAUOu8JAOiY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/bookings/view.us1w5eu8fj.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\bookings\view.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"us1w5eu8fj"},{"Name":"integrity","Value":"sha256-Hs6c1sUOq599HNbiiRBOxBzQoosFbFY5QAUOu8JAOiY="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/bookings/view.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13064"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Hs6c1sUOq599HNbiiRBOxBzQoosFbFY5QAUOu8JAOiY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/dashboard.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\dashboard.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sBaGSsLTARy876ahQHl/A4eiXStSe/ersn8N5wcjj9k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9796"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022sBaGSsLTARy876ahQHl/A4eiXStSe/ersn8N5wcjj9k=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/dashboard.kfm35kipni.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\dashboard.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kfm35kipni"},{"Name":"integrity","Value":"sha256-sBaGSsLTARy876ahQHl/A4eiXStSe/ersn8N5wcjj9k="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/dashboard.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9796"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022sBaGSsLTARy876ahQHl/A4eiXStSe/ersn8N5wcjj9k=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/movies.84l1ph0tpa.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\movies.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"84l1ph0tpa"},{"Name":"integrity","Value":"sha256-KP5EKtBhVutndqql5m873wlCy6sXhJ2l5HMaqi\u002B4yh4="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/movies.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8880"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022KP5EKtBhVutndqql5m873wlCy6sXhJ2l5HMaqi\u002B4yh4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/movies.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\movies.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KP5EKtBhVutndqql5m873wlCy6sXhJ2l5HMaqi\u002B4yh4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8880"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022KP5EKtBhVutndqql5m873wlCy6sXhJ2l5HMaqi\u002B4yh4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/movies/create.0y43385pnf.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\movies\create.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0y43385pnf"},{"Name":"integrity","Value":"sha256-yM5Gnjwul\u002B4\u002BBfodaeE/ApFg6VQH5zB2BDqNL9WqZ8o="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/movies/create.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6829"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022yM5Gnjwul\u002B4\u002BBfodaeE/ApFg6VQH5zB2BDqNL9WqZ8o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/movies/create.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\movies\create.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yM5Gnjwul\u002B4\u002BBfodaeE/ApFg6VQH5zB2BDqNL9WqZ8o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6829"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022yM5Gnjwul\u002B4\u002BBfodaeE/ApFg6VQH5zB2BDqNL9WqZ8o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/movies/edit.c5sv8nr2s1.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\movies\edit.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c5sv8nr2s1"},{"Name":"integrity","Value":"sha256-QJQrh0wa8As9hxoepQHW6tvbWe3D4zQcjG0qM1r3Nqg="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/movies/edit.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9604"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022QJQrh0wa8As9hxoepQHW6tvbWe3D4zQcjG0qM1r3Nqg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/movies/edit.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\movies\edit.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QJQrh0wa8As9hxoepQHW6tvbWe3D4zQcjG0qM1r3Nqg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9604"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022QJQrh0wa8As9hxoepQHW6tvbWe3D4zQcjG0qM1r3Nqg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/movies/theatre.0q7mv6ygks.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\movies\theatre.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0q7mv6ygks"},{"Name":"integrity","Value":"sha256-mEeSSk2PyTYS\u002Bd4ypBwm9\u002BLtd0FevSC0SW/Lg9jdPDk="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/movies/theatre.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7973"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022mEeSSk2PyTYS\u002Bd4ypBwm9\u002BLtd0FevSC0SW/Lg9jdPDk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/movies/theatre.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\movies\theatre.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mEeSSk2PyTYS\u002Bd4ypBwm9\u002BLtd0FevSC0SW/Lg9jdPDk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7973"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022mEeSSk2PyTYS\u002Bd4ypBwm9\u002BLtd0FevSC0SW/Lg9jdPDk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/movies/view.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\movies\view.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-B1fE09O2kMVpHTY6aSnkNFi9Y6p0w93MIYCZAEgyv/U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"12211"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022B1fE09O2kMVpHTY6aSnkNFi9Y6p0w93MIYCZAEgyv/U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/movies/view.z1kilry25n.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\movies\view.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z1kilry25n"},{"Name":"integrity","Value":"sha256-B1fE09O2kMVpHTY6aSnkNFi9Y6p0w93MIYCZAEgyv/U="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/movies/view.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12211"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022B1fE09O2kMVpHTY6aSnkNFi9Y6p0w93MIYCZAEgyv/U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/screenings.247vfdywq7.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\screenings.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"247vfdywq7"},{"Name":"integrity","Value":"sha256-Pudwqg6IO5i8k8TdaGDumB7hFiJM/IjJ\u002BHaXyVVySlU="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/screenings.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8569"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Pudwqg6IO5i8k8TdaGDumB7hFiJM/IjJ\u002BHaXyVVySlU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/screenings.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\screenings.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Pudwqg6IO5i8k8TdaGDumB7hFiJM/IjJ\u002BHaXyVVySlU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8569"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Pudwqg6IO5i8k8TdaGDumB7hFiJM/IjJ\u002BHaXyVVySlU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/screenings/bookings.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\screenings\bookings.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-viAgj6LQUU4BkPF3xZPOm2VB7jbDAbXjKIEbw8igjuc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10202"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022viAgj6LQUU4BkPF3xZPOm2VB7jbDAbXjKIEbw8igjuc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/screenings/bookings.u41ohd0cey.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\screenings\bookings.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u41ohd0cey"},{"Name":"integrity","Value":"sha256-viAgj6LQUU4BkPF3xZPOm2VB7jbDAbXjKIEbw8igjuc="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/screenings/bookings.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10202"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022viAgj6LQUU4BkPF3xZPOm2VB7jbDAbXjKIEbw8igjuc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/screenings/create.74z724cuwv.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\screenings\create.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"74z724cuwv"},{"Name":"integrity","Value":"sha256-eUAQprdOyYiawaW\u002B1HhXiYwi31nxwEoR\u002BirATIBqyV4="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/screenings/create.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6556"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022eUAQprdOyYiawaW\u002B1HhXiYwi31nxwEoR\u002BirATIBqyV4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/screenings/create.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\screenings\create.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eUAQprdOyYiawaW\u002B1HhXiYwi31nxwEoR\u002BirATIBqyV4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6556"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022eUAQprdOyYiawaW\u002B1HhXiYwi31nxwEoR\u002BirATIBqyV4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/screenings/edit.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\screenings\edit.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IckT3qmISiImEWpL4VtmHC5YrVXFt79ycIdBid/m0o0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6410"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022IckT3qmISiImEWpL4VtmHC5YrVXFt79ycIdBid/m0o0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/screenings/edit.th6598dexm.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\screenings\edit.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"th6598dexm"},{"Name":"integrity","Value":"sha256-IckT3qmISiImEWpL4VtmHC5YrVXFt79ycIdBid/m0o0="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/screenings/edit.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6410"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022IckT3qmISiImEWpL4VtmHC5YrVXFt79ycIdBid/m0o0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/screenings/view.c0b0q78kex.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\screenings\view.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c0b0q78kex"},{"Name":"integrity","Value":"sha256-RHLzcENAnpTX3inS\u002BEqyJSfmHy9h0BeEOCG8HB\u002BeK/A="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/screenings/view.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6672"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022RHLzcENAnpTX3inS\u002BEqyJSfmHy9h0BeEOCG8HB\u002BeK/A=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/screenings/view.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\screenings\view.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RHLzcENAnpTX3inS\u002BEqyJSfmHy9h0BeEOCG8HB\u002BeK/A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6672"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022RHLzcENAnpTX3inS\u002BEqyJSfmHy9h0BeEOCG8HB\u002BeK/A=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/seats/manage.dnce7dxjh8.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\seats\manage.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dnce7dxjh8"},{"Name":"integrity","Value":"sha256-icIYjY1yYnheDnK2Nz33sG84ZKw7P7wlBcqevJhdBCI="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/seats/manage.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18840"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022icIYjY1yYnheDnK2Nz33sG84ZKw7P7wlBcqevJhdBCI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/seats/manage.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\seats\manage.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-icIYjY1yYnheDnK2Nz33sG84ZKw7P7wlBcqevJhdBCI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"18840"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022icIYjY1yYnheDnK2Nz33sG84ZKw7P7wlBcqevJhdBCI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/seats/screens.8hj2tk2jrn.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\seats\screens.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8hj2tk2jrn"},{"Name":"integrity","Value":"sha256-5EOePHrWOzumUeWtLXCtoII828/vZg/5g15r8en5okE="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/seats/screens.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5397"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00225EOePHrWOzumUeWtLXCtoII828/vZg/5g15r8en5okE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/seats/screens.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\seats\screens.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5EOePHrWOzumUeWtLXCtoII828/vZg/5g15r8en5okE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5397"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00225EOePHrWOzumUeWtLXCtoII828/vZg/5g15r8en5okE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/theatres.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\theatres.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-B7DGYsRVQYiNNqpFgATNkl27N\u002BN6q\u002BlqQJ48GSSVzwk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8160"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022B7DGYsRVQYiNNqpFgATNkl27N\u002BN6q\u002BlqQJ48GSSVzwk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/theatres.x2xqeuet4f.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\theatres.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x2xqeuet4f"},{"Name":"integrity","Value":"sha256-B7DGYsRVQYiNNqpFgATNkl27N\u002BN6q\u002BlqQJ48GSSVzwk="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/theatres.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8160"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022B7DGYsRVQYiNNqpFgATNkl27N\u002BN6q\u002BlqQJ48GSSVzwk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/theatres/create.gr98tyx7j6.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\theatres\create.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gr98tyx7j6"},{"Name":"integrity","Value":"sha256-bLi2TFNzdRRkvjW9tmufFxhwa8Q\u002BiN/SvVjDHeG6WYA="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/theatres/create.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5033"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022bLi2TFNzdRRkvjW9tmufFxhwa8Q\u002BiN/SvVjDHeG6WYA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/theatres/create.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\theatres\create.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bLi2TFNzdRRkvjW9tmufFxhwa8Q\u002BiN/SvVjDHeG6WYA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5033"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022bLi2TFNzdRRkvjW9tmufFxhwa8Q\u002BiN/SvVjDHeG6WYA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/theatres/edit.9s73m08ynm.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\theatres\edit.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9s73m08ynm"},{"Name":"integrity","Value":"sha256-KSAi0gfrIbhwkdZWKC11t2esVS5ey/\u002BcNL5\u002BNronK5U="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/theatres/edit.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5098"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022KSAi0gfrIbhwkdZWKC11t2esVS5ey/\u002BcNL5\u002BNronK5U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/theatres/edit.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\theatres\edit.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KSAi0gfrIbhwkdZWKC11t2esVS5ey/\u002BcNL5\u002BNronK5U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5098"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022KSAi0gfrIbhwkdZWKC11t2esVS5ey/\u002BcNL5\u002BNronK5U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/theatres/screenings.g1uvy47vxx.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\theatres\screenings.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"g1uvy47vxx"},{"Name":"integrity","Value":"sha256-LDRf1OcPF\u002BXXoBxiPmPkfxk\u002BHjWA9bbCicI5qjuPocM="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/theatres/screenings.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8537"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022LDRf1OcPF\u002BXXoBxiPmPkfxk\u002BHjWA9bbCicI5qjuPocM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/theatres/screenings.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\theatres\screenings.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LDRf1OcPF\u002BXXoBxiPmPkfxk\u002BHjWA9bbCicI5qjuPocM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8537"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022LDRf1OcPF\u002BXXoBxiPmPkfxk\u002BHjWA9bbCicI5qjuPocM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/theatres/seats.gk8iha4m9l.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\theatres\seats.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gk8iha4m9l"},{"Name":"integrity","Value":"sha256-ICtye\u002B\u002BT\u002BV/4K2YtMA41vGK37UCqm6DwlqTb\u002Bwg6Fpc="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/theatres/seats.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9078"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022ICtye\u002B\u002BT\u002BV/4K2YtMA41vGK37UCqm6DwlqTb\u002Bwg6Fpc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/theatres/seats.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\theatres\seats.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ICtye\u002B\u002BT\u002BV/4K2YtMA41vGK37UCqm6DwlqTb\u002Bwg6Fpc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9078"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022ICtye\u002B\u002BT\u002BV/4K2YtMA41vGK37UCqm6DwlqTb\u002Bwg6Fpc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/theatres/view.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\theatres\view.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HFLgGXVOYMTCGiyd/xaesY0F0SrNVXyG2Y8y9yUAMFw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5605"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022HFLgGXVOYMTCGiyd/xaesY0F0SrNVXyG2Y8y9yUAMFw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/theatres/view.kw5w4x6zav.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\theatres\view.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kw5w4x6zav"},{"Name":"integrity","Value":"sha256-HFLgGXVOYMTCGiyd/xaesY0F0SrNVXyG2Y8y9yUAMFw="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/theatres/view.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5605"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022HFLgGXVOYMTCGiyd/xaesY0F0SrNVXyG2Y8y9yUAMFw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/user-edit.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\user-edit.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-O6Z04JisKX593RC4wOVEs5Esh28KpM7\u002BgAFacGpMszQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5421"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022O6Z04JisKX593RC4wOVEs5Esh28KpM7\u002BgAFacGpMszQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/user-edit.n18qfvfn27.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\user-edit.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n18qfvfn27"},{"Name":"integrity","Value":"sha256-O6Z04JisKX593RC4wOVEs5Esh28KpM7\u002BgAFacGpMszQ="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/user-edit.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5421"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022O6Z04JisKX593RC4wOVEs5Esh28KpM7\u002BgAFacGpMszQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/users.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\users.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-govCfam5fdcLUzJq3UHQM1FhFXtwdW94vmDftg1sWb0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7626"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022govCfam5fdcLUzJq3UHQM1FhFXtwdW94vmDftg1sWb0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/admin/users.i0zhgs4uya.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\admin\users.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"i0zhgs4uya"},{"Name":"integrity","Value":"sha256-govCfam5fdcLUzJq3UHQM1FhFXtwdW94vmDftg1sWb0="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/admin/users.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7626"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022govCfam5fdcLUzJq3UHQM1FhFXtwdW94vmDftg1sWb0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/auth/login.3ui8wkju9l.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\auth\login.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3ui8wkju9l"},{"Name":"integrity","Value":"sha256-W7E16bQedgIfz\u002BpHRjdYaO\u002B3v\u002Bl0IgnRHYvepj0qypI="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/auth/login.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2765"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022W7E16bQedgIfz\u002BpHRjdYaO\u002B3v\u002Bl0IgnRHYvepj0qypI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/auth/login.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\auth\login.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-W7E16bQedgIfz\u002BpHRjdYaO\u002B3v\u002Bl0IgnRHYvepj0qypI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2765"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022W7E16bQedgIfz\u002BpHRjdYaO\u002B3v\u002Bl0IgnRHYvepj0qypI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/auth/register.6ml7jhy5lr.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\auth\register.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6ml7jhy5lr"},{"Name":"integrity","Value":"sha256-0l\u002B2qiKQqI6bFBZnhnbvl83h70u/McD5m0fokdM6l80="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/auth/register.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4702"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00220l\u002B2qiKQqI6bFBZnhnbvl83h70u/McD5m0fokdM6l80=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/auth/register.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\auth\register.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0l\u002B2qiKQqI6bFBZnhnbvl83h70u/McD5m0fokdM6l80="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4702"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00220l\u002B2qiKQqI6bFBZnhnbvl83h70u/McD5m0fokdM6l80=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/booking/bookings.9hhjl4mzj2.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\booking\bookings.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9hhjl4mzj2"},{"Name":"integrity","Value":"sha256-wztk4pphBxiQzeofCvxvuQOPr\u002BPh2dQUiJ2gaky4Uv8="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/booking/bookings.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12965"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022wztk4pphBxiQzeofCvxvuQOPr\u002BPh2dQUiJ2gaky4Uv8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/booking/bookings.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\booking\bookings.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wztk4pphBxiQzeofCvxvuQOPr\u002BPh2dQUiJ2gaky4Uv8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"12965"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022wztk4pphBxiQzeofCvxvuQOPr\u002BPh2dQUiJ2gaky4Uv8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/booking/checkout.c4hlkpfp68.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\booking\checkout.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c4hlkpfp68"},{"Name":"integrity","Value":"sha256-FO4Z2ZmnG9jtzjikqU7q0hvTwJbyqbo8xaZwTCkWn50="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/booking/checkout.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9459"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022FO4Z2ZmnG9jtzjikqU7q0hvTwJbyqbo8xaZwTCkWn50=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/booking/checkout.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\booking\checkout.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FO4Z2ZmnG9jtzjikqU7q0hvTwJbyqbo8xaZwTCkWn50="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9459"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022FO4Z2ZmnG9jtzjikqU7q0hvTwJbyqbo8xaZwTCkWn50=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/booking/seat-selection.dwuq2au0zu.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\booking\seat-selection.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dwuq2au0zu"},{"Name":"integrity","Value":"sha256-E1cQNqxs3EeZKTs5hOkNrgXAfTA0ooYwVTxY9LW\u002BzX4="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/booking/seat-selection.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14674"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022E1cQNqxs3EeZKTs5hOkNrgXAfTA0ooYwVTxY9LW\u002BzX4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/booking/seat-selection.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\booking\seat-selection.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E1cQNqxs3EeZKTs5hOkNrgXAfTA0ooYwVTxY9LW\u002BzX4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14674"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022E1cQNqxs3EeZKTs5hOkNrgXAfTA0ooYwVTxY9LW\u002BzX4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/booking/view.5bhllym4rs.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\booking\view.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5bhllym4rs"},{"Name":"integrity","Value":"sha256-H1idm2518WH4U6XNLEDXV/Zc84RaS9eJ1oRZga602sA="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/booking/view.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10333"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022H1idm2518WH4U6XNLEDXV/Zc84RaS9eJ1oRZga602sA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/booking/view.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\booking\view.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-H1idm2518WH4U6XNLEDXV/Zc84RaS9eJ1oRZga602sA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10333"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022H1idm2518WH4U6XNLEDXV/Zc84RaS9eJ1oRZga602sA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/contact.1rzrxknvxf.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\contact.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1rzrxknvxf"},{"Name":"integrity","Value":"sha256-Q1FouHv5yAmoXkPAmrTDEa7L\u002BPj5i3KnpU/FOYX3znk="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/contact.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6490"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Q1FouHv5yAmoXkPAmrTDEa7L\u002BPj5i3KnpU/FOYX3znk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/contact.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\contact.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Q1FouHv5yAmoXkPAmrTDEa7L\u002BPj5i3KnpU/FOYX3znk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6490"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Q1FouHv5yAmoXkPAmrTDEa7L\u002BPj5i3KnpU/FOYX3znk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/error/403.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\error\403.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vmSFoFQtQCxZR8jR4rUz6xF6bJT/RiSOJi/vz\u002Bm8DLw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"495"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022vmSFoFQtQCxZR8jR4rUz6xF6bJT/RiSOJi/vz\u002Bm8DLw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/error/403.ijwslrters.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\error\403.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ijwslrters"},{"Name":"integrity","Value":"sha256-vmSFoFQtQCxZR8jR4rUz6xF6bJT/RiSOJi/vz\u002Bm8DLw="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/error/403.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"495"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022vmSFoFQtQCxZR8jR4rUz6xF6bJT/RiSOJi/vz\u002Bm8DLw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/error/404.4g59wff0p4.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\error\404.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4g59wff0p4"},{"Name":"integrity","Value":"sha256-LNAajwLXUPfWLmP4rr1r8OaYOVrSzBaImxtizAhxToE="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/error/404.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"548"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022LNAajwLXUPfWLmP4rr1r8OaYOVrSzBaImxtizAhxToE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/error/404.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\error\404.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LNAajwLXUPfWLmP4rr1r8OaYOVrSzBaImxtizAhxToE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"548"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022LNAajwLXUPfWLmP4rr1r8OaYOVrSzBaImxtizAhxToE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/error/405.13q8fflaa9.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\error\405.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"13q8fflaa9"},{"Name":"integrity","Value":"sha256-DRFPNFG6fC09dG0TzRn/0lCxDb24hiWL86yGmeWu7Rc="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/error/405.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"132"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022DRFPNFG6fC09dG0TzRn/0lCxDb24hiWL86yGmeWu7Rc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/error/405.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\error\405.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DRFPNFG6fC09dG0TzRn/0lCxDb24hiWL86yGmeWu7Rc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"132"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022DRFPNFG6fC09dG0TzRn/0lCxDb24hiWL86yGmeWu7Rc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/error/500.4l3msawwec.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\error\500.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4l3msawwec"},{"Name":"integrity","Value":"sha256-WEBAno4lbH77HE6cMmwCup0EIIlPdPyivrEGIe7fZs0="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/error/500.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"647"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022WEBAno4lbH77HE6cMmwCup0EIIlPdPyivrEGIe7fZs0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/error/500.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\error\500.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WEBAno4lbH77HE6cMmwCup0EIIlPdPyivrEGIe7fZs0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"647"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022WEBAno4lbH77HE6cMmwCup0EIIlPdPyivrEGIe7fZs0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/error/error.9c948qpv16.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\error\error.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9c948qpv16"},{"Name":"integrity","Value":"sha256-SQhQWaMRCfIAKxaejTKbMYHsGuLg73dqThP8vVQTjkU="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/error/error.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"721"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022SQhQWaMRCfIAKxaejTKbMYHsGuLg73dqThP8vVQTjkU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/error/error.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\error\error.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SQhQWaMRCfIAKxaejTKbMYHsGuLg73dqThP8vVQTjkU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"721"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022SQhQWaMRCfIAKxaejTKbMYHsGuLg73dqThP8vVQTjkU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/fragments/footer.6qbha17kyy.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\fragments\footer.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6qbha17kyy"},{"Name":"integrity","Value":"sha256-Yky4f21HdF6Y1SGtjhx\u002BBS\u002BCnoflzmrQKpayg1y2DgA="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/fragments/footer.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2087"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Yky4f21HdF6Y1SGtjhx\u002BBS\u002BCnoflzmrQKpayg1y2DgA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/fragments/footer.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\fragments\footer.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Yky4f21HdF6Y1SGtjhx\u002BBS\u002BCnoflzmrQKpayg1y2DgA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2087"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Yky4f21HdF6Y1SGtjhx\u002BBS\u002BCnoflzmrQKpayg1y2DgA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/fragments/header.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\fragments\header.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wtFDvWaU0BkNbY3RodO5kCOa7we0ozZGdf4wnj0T11w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4979"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022wtFDvWaU0BkNbY3RodO5kCOa7we0ozZGdf4wnj0T11w=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/fragments/header.ux82w6kg5u.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\fragments\header.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ux82w6kg5u"},{"Name":"integrity","Value":"sha256-wtFDvWaU0BkNbY3RodO5kCOa7we0ozZGdf4wnj0T11w="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/fragments/header.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4979"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022wtFDvWaU0BkNbY3RodO5kCOa7we0ozZGdf4wnj0T11w=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/home.2b7omzkmj1.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\home.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2b7omzkmj1"},{"Name":"integrity","Value":"sha256-AsN4z2ylHar\u002B8wwykXH6vix1v9RanqmGBTKOJVSmFzE="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/home.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11206"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022AsN4z2ylHar\u002B8wwykXH6vix1v9RanqmGBTKOJVSmFzE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:34:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/home.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\home.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AsN4z2ylHar\u002B8wwykXH6vix1v9RanqmGBTKOJVSmFzE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"11206"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022AsN4z2ylHar\u002B8wwykXH6vix1v9RanqmGBTKOJVSmFzE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:34:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/movies/detail.31uz0x5bmw.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\movies\detail.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"31uz0x5bmw"},{"Name":"integrity","Value":"sha256-OUnZRDyY72O8etUKdXsvzYhCQUbjSDanGzq5dkLGMbw="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/movies/detail.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15056"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022OUnZRDyY72O8etUKdXsvzYhCQUbjSDanGzq5dkLGMbw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/movies/detail.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\movies\detail.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OUnZRDyY72O8etUKdXsvzYhCQUbjSDanGzq5dkLGMbw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"15056"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022OUnZRDyY72O8etUKdXsvzYhCQUbjSDanGzq5dkLGMbw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/movies/list.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\movies\list.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E6h9Hwta1bhnK63\u002BbTJ6uXL8uP\u002BqTBE1uCL6ufupMIg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9496"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022E6h9Hwta1bhnK63\u002BbTJ6uXL8uP\u002BqTBE1uCL6ufupMIg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/movies/list.z0vo1phlpx.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\movies\list.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z0vo1phlpx"},{"Name":"integrity","Value":"sha256-E6h9Hwta1bhnK63\u002BbTJ6uXL8uP\u002BqTBE1uCL6ufupMIg="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/movies/list.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9496"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022E6h9Hwta1bhnK63\u002BbTJ6uXL8uP\u002BqTBE1uCL6ufupMIg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:12:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/welcome.7jyvzgc1a9.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\welcome.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7jyvzgc1a9"},{"Name":"integrity","Value":"sha256-kwODXWfe7utljdXsdt4pWY6bRxnk/MFqzqV9T\u002Bp\u002BaVk="},{"Name":"label","Value":"_content/TheatreManagementSystem/pages/welcome.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4953"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022kwODXWfe7utljdXsdt4pWY6bRxnk/MFqzqV9T\u002Bp\u002BaVk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:44:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TheatreManagementSystem/pages/welcome.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\welcome.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kwODXWfe7utljdXsdt4pWY6bRxnk/MFqzqV9T\u002Bp\u002BaVk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4953"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022kwODXWfe7utljdXsdt4pWY6bRxnk/MFqzqV9T\u002Bp\u002BaVk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 12:44:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
